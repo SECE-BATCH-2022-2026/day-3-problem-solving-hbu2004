@@ -9,7 +9,7 @@ class Main{
     }
 }
 
-class usermaincode{
+class Maincode{
     public static int countocc(String s1,String s2){
         int count = 0;
         int l1 = s1.length();
